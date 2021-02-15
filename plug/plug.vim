@@ -22,5 +22,7 @@ Plug 'voldikss/vim-floaterm'
 Plug 'voldikss/vim-translator', { 'on':'<Plug>Translate'}
 "tag
 Plug 'liuchengxu/vista.vim', {'on':'Vista'}
+"bookmark
+Plug 'mattesgroeger/vim-bookmarks'
 
 call plug#end()
